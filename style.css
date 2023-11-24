@@ -23,6 +23,7 @@ header nav{
 a{
     text-decoration: none;
     cursor: pointer;
+    color: #000001;
 }
 .nav-right-section a{
     margin-right: 25px;
